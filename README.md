@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Александр Кондаков — ML-инженер" width="100%">
+  <img src="assets/profile-header.png" alt="Александр Кондаков — ML-инженер: компьютерное зрение и BIM" width="100%">
 </p>
 
 <h1 align="center">Александр Кондаков</h1>

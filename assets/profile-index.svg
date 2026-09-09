@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="123" viewBox="0 0 1200 192" role="img" aria-labelledby="title desc">
+<title id="title">Направления работы</title>
+<desc id="desc">01 — ML и данные. 02 — LLM и исследования. 03 — CV и BIM.</desc>
+<rect width="1200" height="192" rx="6" fill="#f3f0e9"/>
+<path d="M0 1H1200" stroke="#c96b38" stroke-width="3"/>
+<g stroke="#d5d2cb"><path d="M400 28V164M800 28V164"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#233e50">
+<g font-family="monospace" font-size="13" letter-spacing="2" fill="#9b4d2a"><text x="30" y="39">01 / MODELS</text><text x="430" y="39">02 / RESEARCH</text><text x="830" y="39">03 / PRODUCT</text></g>
+<g font-size="29" font-weight="600"><text x="30" y="93">ML и данные</text><text x="430" y="93">LLM и исследования</text><text x="830" y="93">CV и BIM</text></g>
+<g font-size="16" fill="#59666d"><text x="30" y="125">Прогнозы · рекомендации · антифрод</text><text x="430" y="125">Агенты · RAG · верификация</text><text x="830" y="125">От изображения к модели здания</text></g>
+</g>
+<g fill="none" stroke="#8195a0" stroke-width="1.5"><path d="M30 165H305"/><path d="M30 165L62 160L94 163L126 150L158 153L190 143L222 148L254 135L286 137"/>
+<path d="M430 158H468L498 146L532 158H570"/><circle cx="430" cy="158" r="3" fill="#f3f0e9"/><circle cx="498" cy="146" r="3" fill="#f3f0e9"/><circle cx="570" cy="158" r="3" fill="#f3f0e9"/>
+<path d="M832 164L852 153L872 164L852 175Z M832 164V145L852 134L872 145V164 M852 153V134 M832 145L852 156L872 145 M852 156V175"/>
+</g><g fill="#c96b38"><circle cx="286" cy="137" r="3"/><circle cx="498" cy="146" r="3"/></g>
+</svg>
